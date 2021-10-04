@@ -1,3 +1,11 @@
+##
+This is  till a work in progress. The todo Lists are:
+1) COMPLETION OF ALL MY API END POINTS AND ROUTES
+2) IMPLEMENATION OF THE SEARCH COMPONENT 
+3) COMPLETION OF THE CALENDAR API END
+4) OTHER MISCELLANEOUS FUNCTIONALITIES
+##  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
